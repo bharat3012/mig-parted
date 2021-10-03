@@ -2,7 +2,6 @@
 #### Install go
 ```
 wget https://golang.org/dl/go1.16.4.linux-amd64.tar.gz
-mv go /usr/local/
 tar -xvf go1.16.4.linux-amd64.tar.gz
 mv go /usr/local/
 export GOROOT=/usr/local/go/
