@@ -1,3 +1,7 @@
+#### Go on Root
+```
+sudo bash
+```
 
 #### Install go
 ```
